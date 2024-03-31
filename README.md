@@ -7,3 +7,6 @@ This repository aims to document my studies in Golang. For those who want to lea
 # References
 
 * https://golang.org
+
+
+https://larien.gitbook.io/aprenda-go-com-testes/
